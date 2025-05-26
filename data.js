@@ -18,13 +18,14 @@ const data = [
     itemCategory: "vida de rua",
     itemLink: "https://twitter.com/codegridweb",
     itemCopy:
-      "Desde que chegou às ruas, Sandro, que ganhou o apelido de Mancha por conta de marcas que possuía na pele, acabou se viciando em cola de sapateiro — também conhecida apenas como cola. Para sustentar seu vício, cometia pequenos assaltos e furtos pelas ruas do Rio de Janeiro, e por isso acabou sendo preso inúmeras vezes. Ainda menor de idade, Sandro ficou internado no Instituto Padre Severino, um reformatório público localizado na Ilha do Governador. Em muitas das instituições por onde passou, ele era considerado um jovem tranquilo. Segundo documentos da época, no Instituto Padre Severino ele recebia visitas de sua tia materna, de sua irmã de 14 anos e de alguns primos. Quando já quase adulto, foi adotado por uma mulher chamada Elza, que acreditava ser sua mãe biológica. No entanto, após a realização de um exame de DNA, descobriu-se que ela não era, de fato, sua mãe verdadeira.",
+      "Fashion takes a digital leap with Integrated Electronic Wearables. It's not just about wearing technology—it's about integrating it seamlessly into everyday style. From garments that light up with embedded LEDs to outfits that can display your current mood through colors and patterns, the future of fashion is connected, smart, and always evolving.",
      media: [
       { type: "image", src: "./img-12-situacao-familiar.jpg" },
       { type: "image", src: "./img-13-parecer-social.jpg" },
       { type: "image", src: "./img-11-ocorrencia97.jpg" },
       { type: "image", src: "./img-14-relatocrime.jpg" },
-      { type: "video", src: "./video-1.mp4" }
+      { type: "video", src: "./relatodamaeadotiva.mp4" },
+      { type: "image", src: "./examedna.png" },
     ]
   },
   {
@@ -42,20 +43,31 @@ const data = [
     ]
   },
   {
-    itemName: "Morphing Clothing",
-    itemCategory: "Eco-Futurism Line",
+    itemName: "O sequestro do ônibus 174",
+    itemCategory: "O Fim Trágico",
     itemLink: "https://www.youtube.com/@codegrid",
     itemCopy:
-      "Imagine apparel that evolves with your mood or the environment. Dynamic Morphing Clothing promises exactly that. With the ability to change hue, design, or even its texture, this adaptive fashion ensures you have a fresh look whenever you desire. Be it a change in the weather or a change in your mood, your attire adapts effortlessly.",
-    itemImg: "./img-4.jpg",
+      "O sequestro do ônibus 174 foi um dos mais documentados da história do Brasil. Sandro Rosa do Nascimento, um jovem em situação de rua, assaltou um ônibus no Rio de Janeiro. Em determinado momento, uma das reféns, aproveitando-se de um instante em que Sandro estava distraído, conseguiu contatar a polícia. Assim, os agentes cercaram o ônibus, iniciando o desfecho dramático da história. Sandro se mostrava bastante agressivo e, por não saber ler nem escrever, pedia para as reféns escreverem nas janelas com batom aquilo que ele mandava, como ameaças dizendo que “iria matar geral” ou que “tinha pacto com o diabo”. As reféns relataram que ele até cantava músicas de tom sombrio para tentar causar medo. Com a chegada da mídia, Sandro se soltou ainda mais, gritando o tempo todo que mataria os reféns caso seus pedidos não fossem atendidos. Ele exigia granadas, um fuzil, mil reais e até um motorista. Sandro dizia que não queria ser preso de forma alguma. Apesar disso, demonstrava para as reféns que não queria matá-las — a agressividade parecia mais voltada para criar uma imagem temida para quem estava do lado de fora. Em um dos momentos mais críticos, Sandro decidiu descer do ônibus levando como refém a jovem Geísa Gonçalves. Um policial do BOPE, ao tentar intervir, acabou errando os dois primeiros disparos, um dos quais atingiu Geísa de raspão no rosto. Sandro, ao cair sobre ela, efetuou três disparos à queima-roupa, que ceifaram a vida da refém. Após o ocorrido, a população ao redor tentou linchar Sandro, acreditando que ele já estivesse morto. No entanto, ele ainda estava vivo e foi levado para a delegacia. No caminho, por estar agitado e ter quebrado uma das janelas do ônibus, um policial tentou imobilizá-lo, mas acabou sufocando-o até a morte.",
+         media: [
+      { type: "image", src: "./img-15-sequestro.jpg" },
+      { type: "image", src: "./img-humilhando-refem.png" },
+      { type: "image", src: "./escrevendo.png" },
+      { type: "video", src: "./mortegeize.mp4" }
+    ]
   },
   {
-    itemName: "3D Holographic Prints",
-    itemCategory: "Digital Elegance",
+    itemName: "O impacto da mídia",
+    itemCategory: "O desfecho podia ser diferente",
     itemLink: "https://twitter.com/codegridweb",
     itemCopy:
       "Elevate your style quotient with 3D Holographic Prints. Moving away from the traditional two-dimensional patterns, these designs seem to hover off the fabric, creating an optical allure. As you move, the holographic patterns shift, ensuring that you're not only seen but remembered.",
-    itemImg: "./img-5.jpg",
+     media: [
+      { type: "image", src: "./img-15-sequestro.jpg" },
+      { type: "image", src: "./img-humilhando-refem.png" },
+      { type: "image", src: "./escrevendo.png" },
+      { type: "image", src: "./img-14-relatocrime.jpg" },
+      { type: "video", src: "./midiadocumentario.mp4" }
+      ]
   },
   {
     itemName: "Atmospheric Garments",
@@ -64,41 +76,6 @@ const data = [
     itemCopy:
       "For the adventurers who seek the skies or even other planets, Atmospheric Aero-adaptable Garments are a godsend. These outfits are crafted to adjust to varying atmospheric conditions. Whether you're exploring the high-altitude mountains or dreaming of interstellar travels, these garments promise comfort paired with avant-garde style.",
     itemImg: "./img-1.jpg",
-    itemImg: "./img-1.jpg",
-    itemImg: "./img-1.jpg",
-    itemImg: "./img-1.jpg",
-  },
-  {
-    itemName: "Responsive Skinsync",
-    itemCategory: "Neural Nuance",
-    itemLink: "https://twitter.com/codegridweb",
-    itemCopy:
-      "In a union of technology and biology, the Responsive Skinsync Attire emerges. This clothing intuitively interacts with the wearer's physiological signals. A rise in body temperature or even a blush could cause the fabric to change its color. It's not just wearing an outfit; it's forming a bond with it.",
-    itemImg: "./img-2.jpg",
-  },
-  {
-    itemName: "Sustainable Zero Weavings",
-    itemCategory: "Galactic Glam",
-    itemLink: "https://www.youtube.com/@codegrid",
-    itemCopy:
-      "As the fashion industry grapples with sustainability, Sustainable Zero-waste Weavings offer a beacon of hope. With meticulous design techniques, every thread, every weave has a purpose, ensuring that there's no waste and no environmental footprint. Fashion-forward and eco-conscious, it’s the way forward.",
-    itemImg: "./img-3.jpg",
-  },
-  {
-    itemName: "Lab Synthetic Leather",
-    itemCategory: "Eco-Futurism Line",
-    itemLink: "https://codegrid.gumroad.com/l/codegridpro",
-    itemCopy:
-      "Ethical and luxurious, Lab-crafted Synthetic Leather is redefining luxury. Created meticulously in controlled environments, it replicates the feel and aesthetics of traditional leather without the ethical concerns. It's a nod to the classics while being firmly rooted in the future.",
-    itemImg: "./img-4.jpg",
-  },
-  {
-    itemName: "Neuro Fashion Gear",
-    itemCategory: "Neural Nuance",
-    itemLink: "https://www.youtube.com/@codegrid",
-    itemCopy:
-      "The frontier of fashion meets neuroscience with Neuro-responsive Fashion Gear. These outfits are designed to understand and respond to neural signals. A simple thought can alter its appearance or function. It's not just an outfit; it's an extension of one's thoughts and emotions.",
-    itemImg: "./img-5.jpg",
   },
 ];
 
