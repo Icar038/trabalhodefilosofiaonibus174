@@ -2,7 +2,7 @@ const data = [
   {
     itemName: "Sandro Rosa do Nascimento",
     itemCategory: "Onde tudo começou",
-    itemLink: "https://www.youtube.com/@codegrid",
+    itemLink: "https://icar038.github.io/referencias1/",
     itemCopy:
       "Em 07/09/1978 nasce Sandro Rosa do Nascimento, na cidade do Rio de Janeiro. Sua infância foi marcada por pobreza, abandono e violência. Quando ainda era criança, aos 6 anos, Sandro presenciou um dos episódios mais traumáticos de sua vida: a morte brutal de sua mãe, Clarice Rosa do Nascimento, esfaqueada na sua frente. A tragédia não só lhe tirou o afeto materno, como também desestruturou por completo o pouco de estabilidade que ele tinha. Após a perda da mãe, Sandro foi morar com uma tia, Julieta, mas o ambiente familiar não o acolheu de forma adequada. Sentindo-se rejeitado e sem perspectiva, ele decidiu fugir de casa. Ainda muito jovem, Sandro deixou a residência da tia e seguiu sozinho para a região do bairro de Botafogo, na zona sul do Rio de Janeiro. Ali começou a viver nas ruas, mergulhando em uma realidade de abandono social, violência e sobrevivência extrema, que marcaria o restante de sua trajetória.",
    media: [
@@ -45,7 +45,7 @@ const data = [
   {
     itemName: "O sequestro do ônibus 174",
     itemCategory: "O Fim Trágico",
-    itemLink: "https://www.youtube.com/@codegrid",
+    itemLink: "https://icar038.github.io/referencias1/",
     itemCopy:
       "O sequestro do ônibus 174 foi um dos mais documentados da história do Brasil. Sandro Rosa do Nascimento, um jovem em situação de rua, assaltou um ônibus no Rio de Janeiro. Em determinado momento, uma das reféns, aproveitando-se de um instante em que Sandro estava distraído, conseguiu contatar a polícia. Assim, os agentes cercaram o ônibus, iniciando o desfecho dramático da história. Sandro se mostrava bastante agressivo e, por não saber ler nem escrever, pedia para as reféns escreverem nas janelas com batom aquilo que ele mandava, como ameaças dizendo que “iria matar geral” ou que “tinha pacto com o diabo”. As reféns relataram que ele até cantava músicas de tom sombrio para tentar causar medo. Com a chegada da mídia, Sandro se soltou ainda mais, gritando o tempo todo que mataria os reféns caso seus pedidos não fossem atendidos. Ele exigia granadas, um fuzil, mil reais e até um motorista. Sandro dizia que não queria ser preso de forma alguma. Apesar disso, demonstrava para as reféns que não queria matá-las — a agressividade parecia mais voltada para criar uma imagem temida para quem estava do lado de fora. Em um dos momentos mais críticos, Sandro decidiu descer do ônibus levando como refém a jovem Geísa Gonçalves. Um policial do BOPE, ao tentar intervir, acabou errando os dois primeiros disparos, um dos quais atingiu Geísa de raspão no rosto. Sandro, ao cair sobre ela, efetuou três disparos à queima-roupa, que ceifaram a vida da refém. Após o ocorrido, a população ao redor tentou linchar Sandro, acreditando que ele já estivesse morto. No entanto, ele ainda estava vivo e foi levado para a delegacia. No caminho, por estar agitado e ter quebrado uma das janelas do ônibus, um policial tentou imobilizá-lo, mas acabou sufocando-o até a morte.",
          media: [
