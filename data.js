@@ -16,7 +16,7 @@ const data = [
    {
     itemName: "Mancha",
     itemCategory: "vida de rua",
-    itemLink: "https://twitter.com/codegridweb",
+    itemLink: "https://icar038.github.io/repositorio3/",
     itemCopy:
       "Desde que chegou às ruas, Sandro, que ganhou o apelido de Mancha por conta de marcas que possuía na pele, acabou se viciando em cola de sapateiro — também conhecida apenas como cola. Para sustentar seu vício, cometia pequenos assaltos e furtos pelas ruas do Rio de Janeiro, e por isso acabou sendo preso inúmeras vezes. Ainda menor de idade, Sandro ficou internado no Instituto Padre Severino, um reformatório público localizado na Ilha do Governador. Em muitas das instituições por onde passou, ele era considerado um jovem tranquilo. Segundo documentos da época, no Instituto Padre Severino ele recebia visitas de sua tia materna, de sua irmã de 14 anos e de alguns primos. Quando já quase adulto, foi adotado por uma mulher chamada Elza, que acreditava ser sua mãe biológica. No entanto, após a realização de um exame de DNA, descobriu-se que ela não era, de fato, sua mãe verdadeira.",
      media: [
