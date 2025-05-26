@@ -60,7 +60,7 @@ const data = [
     itemCategory: "O desfecho podia ser diferente",
     itemLink: "https://twitter.com/codegridweb",
     itemCopy:
-      "Elevate your style quotient with 3D Holographic Prints. Moving away from the traditional two-dimensional patterns, these designs seem to hover off the fabric, creating an optical allure. As you move, the holographic patterns shift, ensuring that you're not only seen but remembered.",
+      "A mídia tem um forte poder de influência em situações de crise, e no sequestro do ônibus 174, em 2000, isso ficou evidente. A transmissão ao vivo atraiu a atenção de todo o país e transformou o caso em um espetáculo, o que aumentou ainda mais a tensão no local. A presença constante das câmeras dificultou a ação da polícia e influenciou decisões importantes. Com medo da repercussão pública, o governador da época chegou a ligar para evitar que o sequestrador fosse morto por um atirador de elite. Toda essa exposição também contribuiu para a demora na resolução do caso, já que cada passo era analisado em tempo real por milhões de pessoas. O desfecho trágico, com a morte de uma refém, mostrou como a mídia pode atrapalhar mais do que ajudar quando ultrapassa seus limites em busca de audiência.",
      media: [
       { type: "image", src: "./img-15-sequestro.jpg" },
       { type: "image", src: "./img-humilhando-refem.png" },
