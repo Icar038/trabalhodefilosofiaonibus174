@@ -65,7 +65,7 @@ const data = [
       { type: "image", src: "./img-15-sequestro.jpg" },
       { type: "image", src: "./img-humilhando-refem.png" },
       { type: "image", src: "./escrevendo.png" },
-      { type: "image", src: "./img-14-relatocrime.jpg" },
+      { type: "image", src: "./tvfacha.mp4" },
       { type: "video", src: "./midiadocumentario.mp4" }
       ]
   },
